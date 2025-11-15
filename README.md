@@ -46,8 +46,5 @@ User → Master Agent → (Planner / Notes / Doubt) → Output
 - doubt_solver.py → Q&A  
 - master_agent.py → controller agent  
 
----
+--
 
-## How To Use (in Kaggle Notebook)
-1. Upload code files or paste code  
-2. Run:
